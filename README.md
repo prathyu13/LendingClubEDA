@@ -34,7 +34,9 @@ We are advising the company with driver variables to avoid credit loss using EDA
 - Renters are more likely to default than home-owners and people with mortaged homes
 - Lesser the annual income, higher the risk of default
 - Higher interest rate loans are more likely to be defaulted
-- When DTI increases, loans are likely to be defaulted but only until 25. When DTI is higher than 25, loan is not likely to be defaulted
+- When DTI increases, loans are likely to be defaulted but only until 25. When DTI crossed 25, behaviour was contradicting.
+  This might be because as dti reaches 25, it indicates borrower has become thin financially. Lenders might have become more strict in their risk
+  assessment and they might not have been approving loans for people with higher DTIs.
 
 ## Technologies Used
 
